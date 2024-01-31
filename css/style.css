@@ -367,7 +367,7 @@ h1 {
 
 
 .video-slider .slick-prev:before, .video-slider .slick-next:before {
-    content: '';
+    display: none;
 }
 
 .video-slider .slick-prev {
